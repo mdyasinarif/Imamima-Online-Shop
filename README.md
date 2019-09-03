@@ -16,4 +16,4 @@ Purchase Product
 Summary of the Select Products list.
 Make Online Payment 
 
-<imag Src="Imamima-Online-Shop/images/Add Product & Product Details.png">
+<imag Src="Imamima-Online-Shop/images/add_product.png">
