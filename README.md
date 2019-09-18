@@ -12,18 +12,20 @@ Jsf,
 Primeface,
 Hibernate &
 MySql
-Requirements
 
-Imamima Shop wants to develop there product selling system using an Online Ecommerce Website they want to record there all product and product information (purchase & sales) and get a payment through the online payment gateway.
 
-Requirements analysis 
+Requirements<br>
 
-Add Product Category
-Add Product Sub-Category
-Add Product & Product Details
-Purchase Product
-Summary of the Select Products list.
-Make Online Payment 
+Imamima Shop wants to develop there product selling system using an Online Ecommerce Website they want to record there all product and product information (purchase & sales) and get a payment through the online payment gateway.<br>
+
+Requirements analysis <br>
+
+Add Product Category<br>
+Add Product Sub-Category<br>
+Add Product & Product Details<br>
+Purchase Product<br>
+Summary of the Select Products list.<br>
+Make Online Payment <br>
 
 ![add_product](https://user-images.githubusercontent.com/43033523/64164931-ddd12200-ce65-11e9-809e-d9793b444811.png)
 ![Add Product   Product Details](https://user-images.githubusercontent.com/43033523/64164925-dd388b80-ce65-11e9-8471-2b124de26460.png)
